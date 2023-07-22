@@ -12,6 +12,19 @@ Colspan is used to merge the tow or more coloumn to each other within cell in ta
 colspan="2" means it will merge two cell to eachother.
 
 
-Other useful tag use while doing coding realted to table in html, like:
-<th>table heder 
-<hr>Add horizontal line in html 
+All usefull tags for table
+<table>: The main container element for creating a table.
+
+<tr>: Defines a table row. It is used to group a set of table data (cells) within a table.
+
+<th>: Defines a table header cell. It is used to represent header cells within the table, typically located at the beginning of rows or columns.
+
+<td>: Defines a table data cell. It is used to represent regular data cells within the table, containing the actual content of the table.
+
+<caption>: Defines a table caption. It is used to provide a title or description for the entire table.
+
+<thead>: Defines the header section of the table. It is typically used to group the header rows (<tr>) in complex tables.
+
+<tbody>: Defines the body section of the table. It is used to group the main content rows (<tr>) of the table.
+
+<tfoot>: Defines the footer section of the table. It is used to group footer rows (<tr>) in complex tables.
