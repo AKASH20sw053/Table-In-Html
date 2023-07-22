@@ -10,3 +10,8 @@ scope="coloumn"
 
 Colspan is used to merge the tow or more coloumn to each other within cell in table
 colspan="2" means it will merge two cell to eachother.
+
+
+Other useful tag use while doing coding realted to table in html, like:
+<th>table heder 
+<hr>Add horizontal line in html 
